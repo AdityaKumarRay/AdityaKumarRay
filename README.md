@@ -11,7 +11,7 @@ Hi, I'm Aditya, a pre-final-year BTech. student at NIT Rourkela, India. I'm pass
 - 🤔 I’m looking for help with <strong>open-source contributions</strong>
 - 🌱 I’m currently learning <strong>Deep Learning</strong>
 - 🔍 I’m looking for <strong> career opportunities</strong>.
-
+- 🚀 I’m exploring <strong>AI-powered robotics</strong> and its applications
 
 ### Tools I work upon: 🛠
 
